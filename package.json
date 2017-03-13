@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-topindex",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Top and Index generator for Hexo.",
   "main": "index.js",
   "scripts": {
